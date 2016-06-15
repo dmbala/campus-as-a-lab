@@ -1,4 +1,5 @@
-test
-edit test
-
+Phase 1: A very generic data cleanup code is required. 
+1) Number of meters is not constant for a building
+2) Duplicated rows
+3) Missing reading values
 
